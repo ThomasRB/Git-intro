@@ -1,0 +1,43 @@
+*
+{
+	font-family: 'Arial Bold', sans-serif;
+}
+
+header
+{
+	border: 2px solid #819FF7;
+	margin: 10px 0px 10px 0px;
+}
+
+nav
+{
+	border: 2px dashed #FA5858;
+	margin: 10px 0px 10px 0px;
+}
+
+nav li
+{
+	display: inline;
+}
+
+main
+{
+	border: 2px solid #81F781;
+	margin: 10px 0px 10px 0px;
+}
+
+img
+{
+	width: 33%
+	margin: 0 2px 0 2px;
+}
+
+.L
+{
+	display: inline;
+}
+
+.BordeAmarillo
+{
+	border: 2px dashed #F7BE81;
+	margin: 10px 0px 10px 0px;
